@@ -7,7 +7,7 @@ A piezo buzzer is not like a regular speaker that you might think of. It uses a 
 │  ├ buzzer  
 │  ├ godfather  
 │  └ xmas  
-├ libs  
+├ lib  
 └ schema  
 
 ## Documentation
