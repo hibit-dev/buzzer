@@ -4,7 +4,7 @@ Buzzer is used to generate sound, beep or even melody of a song. It can be found
 A piezo buzzer is not like a regular speaker that you might think of. It uses a material that actually changes shape when you apply electricity to it which in turn creates noise. The faster you bend the material, the higher the pitch of the noise that is produced.  
 
 ├ src  
-│  ├ buzzer
+│  ├ buzzer  
 │  ├ games  
 │  │  ├ doom  
 │  │  ├ mario_bros  
@@ -23,7 +23,7 @@ A piezo buzzer is not like a regular speaker that you might think of. It uses a 
 │  │  ├ nokia  
 │  │  └ xmas  
 │  └ songs  
-│     └ shape_of_you  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ shape_of_you  
 ├ lib  
 └ schema  
 
