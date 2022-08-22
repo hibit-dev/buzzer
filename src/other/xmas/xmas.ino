@@ -1,5 +1,5 @@
 // -------------------------------------------------
-// Copyright (c) 2021 HiBit <https://www.hibit.dev>
+// Copyright (c) 2022 HiBit <https://www.hibit.dev>
 // -------------------------------------------------
 
 #include "pitches.h"

@@ -1,5 +1,5 @@
 // -------------------------------------------------
-// Copyright (c) 2021 HiBit <https://www.hibit.dev>
+// Copyright (c) 2022 HiBit <https://www.hibit.dev>
 // -------------------------------------------------
 
 #include "pitches.h"
@@ -61,7 +61,7 @@ int durations[] = {
 
   2, 8, 8, 8, 8,
 
-  //repeat
+  //repeats
   8, 8, 8, 8, 8, 8, 8, 8,
   2, 8, 8, 8,
   8, 8, 8, 8, 8, 8, 8, 8,
