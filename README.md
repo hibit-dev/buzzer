@@ -13,6 +13,7 @@ A piezo buzzer is not like a regular speaker that you might think of. It uses a 
 │  ├ movies  
 │  │  ├ game_of_thrones  
 │  │  ├ harry_potter  
+│  │  ├ home_alone  
 │  │  ├ pink_panther  
 │  │  ├ pirates_of_the_caribbean  
 │  │  ├ star_wars    
