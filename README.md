@@ -18,7 +18,8 @@ A piezo buzzer is not like a regular speaker that you might think of. It uses a 
 │  │  ├ pirates_of_the_caribbean  
 │  │  ├ star_wars    
 │  │  ├ the_godfather  
-│  │  └ the_lion_sleeps_tonight  
+│  │  ├ the_lion_sleeps_tonight  
+│  │  └ the_nightmare_before_christmas
 │  ├ other   
 │  │  ├ happy_birthday  
 │  │  ├ nokia  
