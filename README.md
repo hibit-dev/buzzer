@@ -27,6 +27,7 @@ Buzzer is used to generate sound, beep or even melody of a song. It can be found
 │  │  └ xmas  
 │  └ songs  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ chevelle_the_red  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ end_of_beginning  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ its_a_small_world  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ its_you  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ shape_of_you  
