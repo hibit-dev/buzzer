@@ -8,7 +8,7 @@ Buzzer is used to generate sound, beep or even melody of a song. It can be found
 │  │  ├ mario_bros  
 │  │  ├ pacman  
 │  │  ├ tetris  
-│  │  └ yoshi_island  
+│  │  └ yoshis_island  
 │  ├ movies  
 │  │  ├ game_of_thrones  
 │  │  ├ harry_potter  
