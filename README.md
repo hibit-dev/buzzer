@@ -16,6 +16,7 @@ Buzzer is used to generate sound, beep or even melody of a song. It can be found
 │  │  ├ home_alone  
 │  │  ├ pink_panther  
 │  │  ├ pirates_of_the_caribbean  
+│  │  ├ specialz  
 │  │  ├ squid_game  
 │  │  ├ star_wars  
 │  │  ├ subway_surfers  
