@@ -44,6 +44,7 @@ Buzzer is used to generate sound, beep or even melody of a song. It can be found
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ still_dre  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ living_on_a_prayer  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ maroon5_memories  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ imagine_dragons_bones  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ imagine_dragons_enemy  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ kaleo_way_down_we_go  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ ken_carson_jennifers_body  
