@@ -1,5 +1,6 @@
-// Karateka 1984 - Final Song
-// edited by by CDman
+// -------------------------------------------------
+// Copyright (c) 2026 HiBit <https://www.hibit.dev>
+// -------------------------------------------------
 
 #include "pitches.h"
 
@@ -7,7 +8,6 @@
 
 // notes in the melody:
 int melody[] = {
-
   NOTE_A3,NOTE_C4,NOTE_E3,NOTE_B3,
   NOTE_C3,NOTE_A3,NOTE_E3,NOTE_B3,
   NOTE_D3,NOTE_A3,NOTE_B3,NOTE_F4,
@@ -24,7 +24,6 @@ int melody[] = {
   NOTE_D3,NOTE_FS3,NOTE_B3,NOTE_D4,
   NOTE_E3,NOTE_A3,NOTE_D4,NOTE_CS4,
   NOTE_E3,NOTE_GS3,NOTE_C4,NOTE_B3
-
 };
 
 // note durations: 4 = quarter note, 8 = eighth note, etc.:
