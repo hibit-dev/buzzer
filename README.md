@@ -6,6 +6,7 @@ Buzzer is used to generate sound, beep or even melody of a song. It can be found
 │  ├ games  
 │  │  ├ assassins_creed_ezios_family  
 │  │  ├ doom  
+│  │  ├ karateka  
 │  │  ├ mario_bros  
 │  │  ├ pacman  
 │  │  ├ tetris  
