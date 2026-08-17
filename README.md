@@ -14,6 +14,7 @@ Buzzer is used to generate sound, beep or even melody of a song. It can be found
 │  │  └ yoshis_island  
 │  ├ movies  
 │  │  ├ game_of_thrones  
+│  │  ├ good_omens  
 │  │  ├ harry_potter  
 │  │  ├ home_alone  
 │  │  ├ on_the_way  
