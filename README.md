@@ -33,6 +33,7 @@ Buzzer is used to generate sound, beep or even melody of a song. It can be found
 │  ├ other   
 │  │  ├ happy_birthday  
 │  │  ├ nokia  
+│  │  ├ passacaglia  
 │  │  ├ toreador  
 │  │  └ xmas  
 │  └ songs  
